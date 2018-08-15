@@ -1,0 +1,9 @@
+[color]
+  ui = auto
+[user]
+  name = Robbie Cao
+  email = robbie.cao@gmail.com
+[push]
+  default = matching
+
+

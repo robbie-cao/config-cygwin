@@ -1,0 +1,2 @@
+Xwin -nomultimonitors -multiwindow &
+
